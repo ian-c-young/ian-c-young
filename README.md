@@ -6,6 +6,4 @@ After being the first hire at Wakefield, the company has grown 20X. I have led o
 
 - 🔭 Beyond business and applied statistics, I enjoy reading, team sports, and landscape paintings.
 - 🌲 I enjoy spending time outdoors as much as possible or in the gym trying not to hurt myself.
-- 💻 I am open to any freelance or volunteer work in the reporting/data analysis/statistics realm as I have time!
-- 📫 Message me on LinkedIn or send me an email (ianchanceyoung [at] gmail [dot] com).
 - 🐻 Sic'Em Bears!
