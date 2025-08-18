@@ -5,5 +5,4 @@ I am an experienced data scientist and business strategist with a Master's of Sc
 After being the first hire at Wakefield, the company has grown 20X. I have led our data engineering efforts on the backend allowing for ease of processing new client data and on the front end I have developed and designed our deliverables for clients. One of my favorite projects was automating the creation of our surveys using various API calls in R. Many of the insights distributed on Wakefield.global have graphics (some have text I have written as well). 
 
 - 🔭 Beyond business and applied statistics, I enjoy reading, playing team sports, and looking at landscape paintings.
-- 🌲 I enjoy spending time outdoors as much as possible or in the gym trying not to hurt myself.
 - 🐻 Sic'Em Bears!
